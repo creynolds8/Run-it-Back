@@ -1,0 +1,17 @@
+{
+	id: "23c6a9dc-c454-41a2-bfec-e44c0a7cf86f"
+	type: "player"
+	player_name: "FuzzySlippers_8"
+	ranks: {
+		23c6a9dc-c454-41a2-bfec-e44c0a7cf86f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "FuzzySlippers_8"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5960FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
